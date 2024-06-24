@@ -2,7 +2,8 @@
 2.0/.jukit/*
 2.0/mlruns/*
 2.0/YT_Transformer.keras
-2.0/key.py
+2.0/src/scripts/key.py
+2.0/models/*
 
 1.0/.jukit/*
 1.0/models/*
